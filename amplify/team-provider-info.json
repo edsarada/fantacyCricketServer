@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cricketserverapp-dev-213928-authRole",
+      "UnauthRoleArn": "arn:aws:iam::536129425342:role/amplify-cricketserverapp-dev-213928-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::536129425342:role/amplify-cricketserverapp-dev-213928-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-cricketserverapp-dev-213928-deployment",
+      "UnauthRoleName": "amplify-cricketserverapp-dev-213928-unauthRole",
+      "StackName": "amplify-cricketserverapp-dev-213928",
+      "StackId": "arn:aws:cloudformation:us-east-1:536129425342:stack/amplify-cricketserverapp-dev-213928/c8d310e0-b9dd-11ed-92dd-0ee91f4f31e7",
+      "AmplifyAppId": "d2t3px4wcfg88u"
+    },
+    "categories": {
+      "auth": {
+        "cricketserverapp87831f16": {}
+      }
+    }
+  }
+}
